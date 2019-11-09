@@ -1,5 +1,5 @@
 # RefinedAmmo BaseMod
-This mod adds 8 new ammo types and 4 turrets that use them. 
+This mod adds 8 new ammo types and 4 turrets that use them. This mod can be fully used on any map with standard ore generation.
 
 ## Planned
 Artillery will be added in the future.
